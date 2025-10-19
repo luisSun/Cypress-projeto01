@@ -11,6 +11,7 @@ Os testes cobrem cenários de **Login** e **Registro de Usuário** no site [Auto
 - Cypress
 - Node.js
 - Faker.js — para geração dinâmica de dados
+- Mochawesome
 - JavaScript (ES6)
 
 ---
